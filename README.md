@@ -3,7 +3,6 @@ json-server --watch db.json
 ```
 
 Browser sync: browser-sync start --server --file . --host --port 5000 --startPath screens/lista_cliente.html
-
 # Realice este curso para JavaScript y:
 - Crea un CRUD utilizando el método fetch y los verbos HTTP<br>
 - Aprende a consumir datos de una API y exhibirlos en tu front-end<br>
