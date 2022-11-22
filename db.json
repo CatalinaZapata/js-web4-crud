@@ -4,6 +4,21 @@
       "nombre": "catalina",
       "email": "catalina@alura.com",
       "id": 1
+    },
+    {
+      "nombre": "Cata",
+      "email": "catalina.zapata@usach.cl",
+      "id": "1f5579e8-3e30-40bf-9ac0-020bc5371b84"
+    },
+    {
+      "nombre": "Cata",
+      "email": "catalina.zapata@usach.cl",
+      "id": "afdb16ac-2f89-4087-9298-6284df6d3427"
+    },
+    {
+      "nombre": "Cata",
+      "email": "catalina.zapata@usach.cl",
+      "id": "b251dc06-d8b6-460d-8c94-713102eed0f5"
     }
   ]
 }
